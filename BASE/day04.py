@@ -28,7 +28,8 @@ while i<10:
     j=1
     while j<=i:
         if j==i:
-            print(f'{j}*{i}={i*j}')
+            #print(f'{j}*{i}={i*j}')
+            print(j+"*"+i+"="+)
         else:
             print(f'{j}*{i}={i*j}',end='\t')
         j+=1
