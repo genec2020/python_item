@@ -8,3 +8,6 @@ for i  in  str:
         break
     else:
         print(i)
+
+#while  break else 配合使用
+
