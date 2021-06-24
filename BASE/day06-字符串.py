@@ -9,4 +9,5 @@ print(str3)
 #切片   默认步长为1
 new_str3 = str3[2:5:1]
 print(new_str3)
+
 #步长2是什么?
